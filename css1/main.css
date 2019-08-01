@@ -29,3 +29,13 @@ table th,td{
     border-bottom: 1px solid gray;
 }
 
+label{
+    float:left;
+    width:200px;
+}
+
+form{
+    width:1000px;
+    height:205px;
+}
+
